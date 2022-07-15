@@ -18,7 +18,7 @@ button {
   /* color: #5ba1ef; */
   color: #fff;
   border: none;
-  margin: 15px 25px;
+  margin: 15px 0;
   cursor: pointer;
   transition: 0.2s;
 }
@@ -33,12 +33,16 @@ button:active {
 .dNjhej.dNjhej.dNjhej,
 .fdKqgb.fdKqgb.fdKqgb {
   margin-top: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  position: fixed !important;
+  left: 0 !important;
+  bottom: 0 !important;
 }
 
 .keGais.keGais.keGais,
 .faHkTE.faHkTE.faHkTE {
-  width: 64px !important;
-  height: 64px !important;
+  width: 33.33vw !important;
+  height: 50px !important;
   font-size: 30px !important;
 }
-
